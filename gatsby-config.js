@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://se.linkedin.com/in/edvin-siewertson`,
     // Content of the About Me section
-    // about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+   about: `Västerås, Sweden`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -24,18 +24,6 @@ module.exports = {
           'Undersökte icke-newtonska fluider vid fritt fall med hjälp av en mikrokontroller, sensorer och en drönare som släppte sonden. Projektet presenterades inför publik på Tekniska museet i Stockholm.',
         //link: 'https://github.com/RyanFitzgerald/devfolio',
       },
-      /* {
-        name: 'ChromeExtensionKit',
-        description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
-      },
-      {
-        name: 'Another Cool Project',
-        description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      }, */
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
@@ -61,16 +49,7 @@ module.exports = {
         name: 'Programspråk',
         description:
           'Python, JavaScript, C++',
-      }, /*
-      {
-        name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
       },
-      {
-        name: 'Other',
-        description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
-      }, */
     ],
   },
   plugins: [
