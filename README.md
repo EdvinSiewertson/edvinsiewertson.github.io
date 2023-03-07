@@ -1,1 +1,1 @@
-View the site [here](https://edvinsiewertson.github.io/)
+View the website [here](https://edvinsiewertson.github.io/)!
