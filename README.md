@@ -1,1 +1,1 @@
-View the website [here](https://edvinsiewertson.github.io/)
+This is my old website. Visit my new one [here](https://edvinsiewertson.github.io/)
